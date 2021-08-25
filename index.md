@@ -4,7 +4,21 @@ You can use the [editor on GitHub](https://github.com/JosARodriguez/jose_portfol
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Project 1: Location intelligence (Security cameras & Gasoline Stations)
+#### Find the number of security cameras needed such that, given range of vision, they cover high criminality zones
+* Created algorithm to find optimal locations for security cameras minimizing the number of cameras whilst covering the locations where past crimes had been reported.
+* Proposed a loss function that would take into account the proximity of the cameras to each other as well as the distance from each camera to the location of crimes.
+* Used different optimization techniques (Quasi-Newton methods, gradient descent, BFGS) to find good results considering time and computational power limitations.
+
+#### Segment gasoline stations in Mexico in regions of 50 km. to assess the market in the different zones.
+*
+
+
+### Project 2: Text Detection and Object Recognition
+
+
+
+### Project 3:
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
