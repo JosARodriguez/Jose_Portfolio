@@ -18,16 +18,17 @@
 * pytesseract
 * cv2
 
-<img src="https://github.com/JosARodriguez/jose_portfolio/blob/main/images/Screenshot%20from%202022-01-24%2020-16-02.png" alt="drawing" width="600"/>
+
+<img src="https://github.com/JosARodriguez/jose_portfolio/blob/gh-pages/images/Screenshot%20from%202022-01-24%2020-16-02.png" alt="drawing" width="600"/>
 
 
-![](https://github.com/JosARodriguez/jose_portfolio/blob/main/images/Screenshot%20from%202022-01-24%2020-16-36.png)
+![](https://github.com/JosARodriguez/jose_portfolio/blob/gh-pages/images/Screenshot%20from%202022-01-24%2020-16-36.png)
 
-# [Pricing Intelligence](https://github.com/JosARodriguez/jose_portfolio/blob/main/pricingIntelligence.pdf)
+# [Pricing Intelligence](https://github.com/JosARodriguez/jose_portfolio/blob/gh-pages/pricingIntelligence.pdf)
 ### Regression, Optimization, Data Manipulation
 
 ## Description 
-* Process that gives a price recommendation for a gasoline station in order to maximize earnings considering: price of competitors, traffic information, price demand elasticity, a [forecast](https://github.com/JosARodriguez/jose_portfolio/blob/main/Forecast.ipynb) for the daily sales, etc. 
+* Process that gives a price recommendation for a gasoline station in order to maximize earnings considering: price of competitors, traffic information, price demand elasticity, a [forecast](https://github.com/JosARodriguez/jose_portfolio/blob/gh-pages/Forecast.ipynb) for the daily sales, etc. 
 
 ## Skills
 
@@ -50,7 +51,7 @@
 * R
 * SQL
 
-![](https://github.com/JosARodriguez/jose_portfolio/blob/main/images/indewx.jpeg)
-![](https://github.com/JosARodriguez/jose_portfolio/blob/main/images/index.jpeg)
+![](https://github.com/JosARodriguez/jose_portfolio/blob/gh-pages/images/indewx.jpeg)
+![](https://github.com/JosARodriguez/jose_portfolio/blob/gh-pages/images/index.jpeg)
 
 jose.angel.rodriguez.ricano@gmail.com
