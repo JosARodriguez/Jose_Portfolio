@@ -37,6 +37,11 @@
 * RMarkdown and Excel for communicating results.
 * SQL.
 
+### Here is a plot of the earnings of a gasoline station with respect to the quotient of the stations' price and a weighted average of the competiors' price. The blue point is the actual value and the green one is the recommended one.
+
+![](/images/f.png)
+
+
 # Market segmentation
 ### Optimization, Data Manipulation, Classification and Clustering
 
