@@ -19,7 +19,7 @@
 * cv2
 
 
-![]<img src="/images/Screenshot%20from%202022-01-24%2020-16-02.png" width="600"/>
+![]("/images/Screenshot%20from%202022-01-24%2020-16-02.png" width="600")
 
 
 ![](/images/Screenshot%20from%202022-01-24%2020-16-36.png)
