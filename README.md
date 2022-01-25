@@ -17,6 +17,9 @@
 * pytesseract
 * cv2
 
+![](https://github.com/JosARodriguez/jose_portfolio/blob/main/images/Screenshot%20from%202022-01-24%2020-16-02.png)
+![](https://github.com/JosARodriguez/jose_portfolio/blob/main/images/Screenshot%20from%202022-01-24%2020-16-36.png)
+
 # [Pricing Intelligence](https://github.com/JosARodriguez/jose_portfolio/blob/main/pricingIntelligence.pdf)
 ### Regression, Optimization, Data Manipulation
 
@@ -36,10 +39,14 @@
 
 ## Description
 
-### Segmentation of the ~13,000 gasoline stations in Mexico into ~1,500 20 km. radius zones in order to: lower the number of API calls from data sources regarding fuel prices and traffic information to reduce costs to approximately a sixth of the original amount, group gasoline stations by predicted sales and level of competition to recommend clients the most profitable regions to open or acquire a station.
+* Segmentation of the ~13,000 gasoline stations in Mexico into ~1,500 20 km. radius zones in order to lower the number of API calls from data sources regarding fuel prices and traffic information to reduce costs to approximately a sixth of the original amount.
+* Group gasoline stations by: predicted sales, level of competition, income level of location, etc. in order to recommend clients the most profitable regions to open or acquire a station.
 
 ## Skills
 
 * R
 * SQL
+
+![](https://github.com/JosARodriguez/jose_portfolio/blob/main/images/indewx.jpeg)
+![](https://github.com/JosARodriguez/jose_portfolio/blob/main/images/index.jpeg)
 
