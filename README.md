@@ -17,7 +17,9 @@
 * pytesseract
 * cv2
 
-![](https://github.com/JosARodriguez/jose_portfolio/blob/main/images/Screenshot%20from%202022-01-24%2020-16-02.png)
+<img src="https://github.com/JosARodriguez/jose_portfolio/blob/main/images/Screenshot%20from%202022-01-24%2020-16-02.png" alt="drawing" width="600"/>
+
+
 ![](https://github.com/JosARodriguez/jose_portfolio/blob/main/images/Screenshot%20from%202022-01-24%2020-16-36.png)
 
 # [Pricing Intelligence](https://github.com/JosARodriguez/jose_portfolio/blob/main/pricingIntelligence.pdf)
