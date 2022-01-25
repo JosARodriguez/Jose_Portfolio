@@ -19,10 +19,10 @@
 * cv2
 
 
-![](/images/Screenshot%20from%202022-01-24%2020-16-02.png)
+![](/images/a.png)
 
 
-![](/images/Screenshot%20from%202022-01-24%2020-16-36.png)
+![](/images/b.png)
 
 # [Pricing Intelligence](https://github.com/JosARodriguez/jose_portfolio/blob/main/pricingIntelligence.pdf)
 ### Regression, Optimization, Data Manipulation
