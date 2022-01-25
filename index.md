@@ -19,10 +19,10 @@
 * cv2
 
 
-<img src="https://github.com/JosARodriguez/jose_portfolio/blob/gh-pages/images/Screenshot%20from%202022-01-24%2020-16-02.png" alt="drawing" width="600"/>
+<img src="/images/Screenshot%20from%202022-01-24%2020-16-02.png" alt="drawing" width="600"/>
 
 
-![](https://github.com/JosARodriguez/jose_portfolio/blob/gh-pages/images/Screenshot%20from%202022-01-24%2020-16-36.png)
+![](/images/Screenshot%20from%202022-01-24%2020-16-36.png)
 
 # [Pricing Intelligence](https://github.com/JosARodriguez/jose_portfolio/blob/gh-pages/pricingIntelligence.pdf)
 ### Regression, Optimization, Data Manipulation
@@ -51,7 +51,7 @@
 * R
 * SQL
 
-![](https://github.com/JosARodriguez/jose_portfolio/blob/gh-pages/images/indewx.jpeg)
-![](https://github.com/JosARodriguez/jose_portfolio/blob/gh-pages/images/index.jpeg)
+![](/images/indewx.jpeg)
+![](/images/index.jpeg)
 
 jose.angel.rodriguez.ricano@gmail.com
