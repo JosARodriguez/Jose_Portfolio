@@ -1,5 +1,5 @@
 # José Ángel Rodríguez
-## Machine Learning Engineer
+## Machine Learning Engineer / Data Scientist
 
 ### There will be links to some examples of the work done in the projects or of the techniques discussed with some other applications. I can not add links to the projects' repositories since they are private repositories and contain information that is subject to a NDA.
 
