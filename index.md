@@ -1,5 +1,5 @@
 # José Ángel Rodríguez
-## Machine Learning Engineer / Data Scientist
+## Data Scientist
 
 ### There will be links to some examples of the work done in the projects or of the techniques discussed with some other applications. I can not add links to the projects' repositories since they are private repositories and contain information that is subject to a NDA.
 
@@ -48,7 +48,7 @@
 
 ## Description
 
-* Segmentation of the ~13,000 gasoline stations in Mexico into ~1,500 20 km. radius zones in order to lower the number of API calls from data sources regarding fuel prices and traffic information to reduce costs to approximately a sixth of the original amount.
+* Segmentation of the ~13,000 gasoline stations in Mexico into ~1,500 50 km. radius clusters in order to lower the number of API calls from data sources regarding fuel prices and traffic information to reduce costs to approximately 20% of the original costs and to 80% of the costs after using a heuristic approach to group the stations. The approach used was to use Hierarchical Clustering, this way the clusters are created iteratively grouping the nearest stations, and the algorithm is stopped when the in the next iteration a cluster passes the 50km radius.
 * Group gasoline stations by: predicted sales, level of competition, income level of location, etc. in order to recommend clients the most profitable regions to open or acquire a station.
 
 ## Skills
